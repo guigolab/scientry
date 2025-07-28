@@ -52,29 +52,23 @@
 
 ---
 
+
+
 ## 📦 Installation
 
 > You’ll be able to deploy SCIENTRY via docker compose
 ---
 
-## 📸 Screenshots
-
-Coming soon...
-
----
 
 ## 🛠 Tech Stack (Tentative)
 
-- Backend: Python (Flask/FastAPI)
+- Backend: Python (Flask)
 - Frontend: Vue 3 / Vite
-- Database: PostgreSQL / MongoDB
-- Charting: Chart.js / D3
+- Database: MongoDB
 
----
+## 📄 Docs
 
-## 📄 License
-
-MIT License — see `LICENSE` file for details.
+Extensive documentation can be found [here](https://guigolab.github.io/scientry/)
 
 ---
 
