@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SCIENTRY",
   description: "Scientific Entry System - Flexible, spreadsheet-inspired data management system",
-  base: '/lims/', // For GitHub Pages deployment
+  base: '/scientry/', // For GitHub Pages deployment
   ignoreDeadLinks: true, // Ignore dead links for now
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
