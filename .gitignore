@@ -6,3 +6,7 @@ __pycache__
 blog_old.md
 scripts
 files
+node_modules
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+docs/.vitepress/temp/
